@@ -5,21 +5,21 @@
 
 
 - method used:
--- bresenham
---geometric methods
-geometric shapes equation
+- bresenham
+- geometric methods
+- geometric shapes equation
 
-Translation
-rotation
+- Translation
+- rotation
 
-shapes :
-circle
-line
-square
-ellipse
-pyramid
-parallelepiped
-cube
-clock programming
+- Shapes :
+- circle
+- line
+- square
+- ellipse
+- pyramid
+- parallelepiped
+- cube
+- clock programming
 
 B-Spline and Bezier curves
